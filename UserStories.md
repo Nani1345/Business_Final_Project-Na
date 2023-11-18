@@ -34,10 +34,10 @@ Alice checks her email after visiting the coffee shop and discovers an interesti
 ### User Story
 **Action:** After visiting the coffee shop, Alice wants to learn about the benefits of the loyalty program.  
 **Result:** Opens her email after visiting the coffee shop.  
-**Result:** Finds a promotion offering a complimentary special item order for bringing a friend in the email.
+**Result:** Finds a promotion offering a complimentary special item order for bringing a friend in the email.  
 
 ## Epic (Loyalty)
 ### User Story
 **Action:** Alice is considering sharing a special offer on social media.  
 **Result:** Reads about the buy one get one free information for the special coffee in the email.  
-**Result:** Decides to share the special offer on social media.  
+**Result:** Decides to share the special offer on social media.      
