@@ -12,7 +12,7 @@ export default function Loyalty(){
             </Box>
 
             <Box  h={528} w={525} backgroundColor='#C4B7DF' display="flex" flexDirection="column" alignItems="center" justifyContent="center">
-                <Heading as='h3' fontFamily='Open Sans' fontSize='40px' color="#540B81" mb={2} mt={0} ml={0} mr={0}>Loyalty Program</Heading>
+                <Heading as='h3' fontFamily='Open Sans' fontSize='40px' color="#540B81" fontWeight="600" mb={2} mt={0} ml={0} mr={0}>Loyalty Program</Heading>
                 <Text fontSize="23"width={487} fontFamily='Outfit, sans-serif' textAlign="center" fontWeight={400} mb={0}> Join our loyalty program for sweet perks below!</Text>
                 <Text fontSize="23"width={487} fontFamily='Outfit, sans-serif' fontWeight={400} textAlign="center" mb={0}> Buy one select sweet, get one free. Satisfy your craving with every visit!</Text>
                 <Text fontSize="23"width={487} ml={0} mr={0} mb={0} fontFamily='Outfit, sans-serif' textAlign="center" fontWeight={400}>Try our new drink! Choco Caramel Iced Latte
